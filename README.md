@@ -1,2 +1,2 @@
-# Hello-TOTP
-A simple implementation of TOTP algorithm.
+# Hello-OTP
+A simple implementation of OTP algorithms.
